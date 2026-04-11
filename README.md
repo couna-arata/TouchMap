@@ -1,4 +1,5 @@
 # TouchMap
+<img width="3814" height="1860" alt="image" src="https://github.com/user-attachments/assets/660acc3a-6b8f-429a-a34f-7ec2da1fa92d" />
 
 VR ハンドインタラクション用の GPU 接触ヒートマップシステムです。  
 手がオブジェクトに触れた部分をリアルタイムで色の変化として可視化し、触覚デバイスへのデータ出力にも対応しています。
